@@ -7,4 +7,5 @@ O projeto é para a avaliação do trabalho final para a disciplina de Banco de 
 INTEGRANTES
 
 Camila Cecília Vlasich de Almeida Namour – 1110482012008
+
 Gustavo Gonçalves Cavichioli – 1110482012009
